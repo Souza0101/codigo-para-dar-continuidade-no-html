@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang = "pt-br">
+<head>
+	<title>Empresa</title>
+	<meta charset = "UTF-8">
+<head>
+<body style="background-color: black;"> 
+	<h1  style="color: aliceblue;" ><center>Pedros's Company</center></h1>
+	<h2 style="color: aliceblue;"><center>Bem vindo a Pedro's Company, o que gostaria neste belo dia?</center></h2>
+	<figure>
+		<center><img src ="https://img.freepik.com/vetores-premium/vetor-de-design-de-logo-p-inicial_567101-521.jpg" alt="logo da empresa" /></center>
+	</figure>
+	<center><ul contenteditable="true">
+			<li style="color: aliceblue;" >Promoções</li>
+			<li style="color: aliceblue;">receba informações sobre nossos novos lançamentos</li>
+			<li style="color: aliceblue;">Catalogo</li>
+			<li style="color: aliceblue;">Compre sem sair de casa</li>
+	</center></ul>
+</body>
+</html>
